@@ -48,4 +48,4 @@
 ---
 
 ## 🐍 Contribution Graph
-![Snake animation](https://github.com/ajay662566/ajay662566/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ajay662566/.github-workflows-/snake.svg)
